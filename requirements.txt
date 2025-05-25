@@ -1,0 +1,5 @@
+langchain_huggingface
+streamlit
+python-dotenv
+langchain_core
+langchain_community
